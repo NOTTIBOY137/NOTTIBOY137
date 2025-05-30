@@ -26,7 +26,7 @@ Security Researcher with proven success identifying 100+ critical, high, and med
 ## TryHackme and HackTheBox
 
 <div align="center">
-  <a href="https://tryhackme.com/p/Naresh1337">
+  <a href="https://tryhackme.com/p/NareshKandula">
     <img src="https://raw.githubusercontent.com/NOTTIBOY137/NOTTIBOY137/master/assets/thm_propic.png" alt="TryHackMe">
   </a>
 </div>
