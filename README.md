@@ -29,7 +29,7 @@ Security Researcher with proven success identifying 100+ critical, high, and med
   <a href="https://tryhackme.com/p/Naresh1337">
     <img src="https://raw.githubusercontent.com/NOTTIBOY137/NOTTIBOY137/master/assets/thm_propic.png" alt="TryHackMe">
   </a>
-  
+</div>
 
 ## Notable Security Projects
 
