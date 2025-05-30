@@ -26,14 +26,10 @@ Security Researcher with proven success identifying 100+ critical, high, and med
 ## TryHackme and HackTheBox
 
 <div align="center">
-  <a href="https://tryhackme.com/p/YOUR_THM_USERNAME">
+  <a href="https://tryhackme.com/p/Naresh1337">
     <img src="https://raw.githubusercontent.com/NOTTIBOY137/NOTTIBOY137/master/assets/thm_propic.png" alt="TryHackMe">
   </a>
   
-  <a href="https://app.hackthebox.com/profile/YOUR_HTB_ID">
-    <img src="https://www.hackthebox.eu/badge/image/YOUR_HTB_ID" alt="HackTheBox">
-  </a>
-</div>
 
 ## Notable Security Projects
 
